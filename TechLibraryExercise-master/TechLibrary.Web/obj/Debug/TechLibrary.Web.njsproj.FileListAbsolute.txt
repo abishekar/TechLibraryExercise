@@ -1,0 +1,2 @@
+C:\Users\abish\OneDrive\Desktop\TechLibraryExercise-master\TechLibrary.Web\obj\Debug\TechLibrary.Web.njsprojAssemblyReference.cache
+C:\Users\abish\OneDrive\Desktop\TechLibraryExercise-master\TechLibrary.Web\bin\Microsoft.NodejsTools.WebRole.dll
